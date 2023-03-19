@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &8269044555261761034
+--- !u!1 &4128137771140868010
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,44 +8,44 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 1006719767353436621}
-  - component: {fileID: 1705097245497904400}
+  - component: {fileID: 1299055880936434673}
+  - component: {fileID: 1117351391247340358}
   m_Layer: 0
-  m_Name: Pistol
+  m_Name: Avtomat
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &1006719767353436621
+--- !u!4 &1299055880936434673
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8269044555261761034}
+  m_GameObject: {fileID: 4128137771140868010}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.19777878, y: -1.3664879, z: -0.23581281}
+  m_LocalPosition: {x: 1468.5358, y: 681.7844, z: -5.03054}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1705097245497904400
+--- !u!114 &1117351391247340358
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8269044555261761034}
+  m_GameObject: {fileID: 4128137771140868010}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c8a74c6cc6274c046b401983ce1f5f9b, type: 3}
+  m_Script: {fileID: 11500000, guid: 241b35dc10c64e540ae25de3d8b073d9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _label: "\u041F\u0438\u0441\u0442\u043E\u043B\u0435\u0442"
-  _price: 1
-  _icon: {fileID: 21300000, guid: a26842c85d619474b8ad80e9c6f4b625, type: 3}
+  _label: "\u0423\u0417\u0418"
+  _price: 2
+  _icon: {fileID: 21300000, guid: dea2e4e3ad16f9f4dbc46bbda8088b49, type: 3}
   _isBuyed: 0
-  Bullet: {fileID: 6446114296670803985, guid: 62513f255a2522e47b0555721f082e54, type: 3}
+  Bullet: {fileID: 6446114296670803985, guid: d17304c80ac2c7344b7cea7fab59348f, type: 3}
