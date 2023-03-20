@@ -1880,6 +1880,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _weapons:
   - {fileID: 1705097245497904400, guid: 5048f6f7c8b68d04788dfdcf841425b0, type: 3}
+  - {fileID: 1117351391247340358, guid: a7551be962026bc45b570f5ae9bad2ab, type: 3}
   _player: {fileID: 1734254620}
   _template: {fileID: 1197324607679712542, guid: 33e7bb6732f4d8a45a800c3667a2cac7, type: 3}
   _itemContainer: {fileID: 545841071}
